@@ -41,12 +41,6 @@ class Moto extends Vehicle {
 }
 
 
-// richiesta continuazione
-
-do {
-    
-} while ($a <= 10);
-
 // richiesta inserimento vettura
 $prompt = strtoupper(readline("vuoi inserire un nuovo veicolo?\n"));
 
